@@ -1,0 +1,33 @@
+{
+  "updated_at": "2026-10-08T22:05:00+07:00",
+  "session": "CLOSED",
+  "indices": [
+    {"symbol": "VNINDEX", "name": "VN-Index", "value": 1738.97, "change": -14.42, "change_percent": -0.82, "open": 1754.71, "high": 1763.54, "low": 1726.0, "volume": 676634772, "trading_value": 15883311244050, "foreign_net_value": -445968044720, "advancers": 122, "decliners": 190, "unchanged": 56},
+    {"symbol": "VN30", "name": "VN30-Index", "value": 1877.0, "change": -17.2, "change_percent": -0.91, "volume": 277237458, "trading_value": 9096562952550, "foreign_net_value": -133750238200, "advancers": 8, "decliners": 21, "unchanged": 1},
+    {"symbol": "HNXINDEX", "name": "HNX-Index", "value": 256.22, "change": -3.6, "change_percent": -1.39, "open": 258.96, "high": 260.23, "low": 254.73, "volume": 60243867}
+  ],
+  "breadth": {"advancers": 122, "decliners": 190, "limit_up": 12, "limit_down": 7, "total": 406},
+  "sectors": [
+    {"slug": "utilities", "name": "Các dịch vụ hạ tầng", "change_percent": 1.91, "trading_value": 284696425000},
+    {"slug": "energy", "name": "Năng lượng", "change_percent": 1.33, "trading_value": 990484931000},
+    {"slug": "basic-materials", "name": "Vật liệu cơ bản", "change_percent": 1.0, "trading_value": 1127598271000},
+    {"slug": "healthcare", "name": "Chăm sóc sức khỏe", "change_percent": 0.66, "trading_value": 23548340000},
+    {"slug": "telecommunications", "name": "Viễn thông", "change_percent": 0.54, "trading_value": 20322798000},
+    {"slug": "consumer-discretionary", "name": "Hàng tiêu dùng không thiết yếu", "change_percent": 0.08, "trading_value": 1185841525000},
+    {"slug": "consumer-staples", "name": "Hàng tiêu dùng cơ bản", "change_percent": 0.08, "trading_value": 1067552682000},
+    {"slug": "technology", "name": "Công nghệ", "change_percent": -0.16, "trading_value": 463989583000},
+    {"slug": "industrials", "name": "Công nghiệp", "change_percent": -0.53, "trading_value": 1418478560000},
+    {"slug": "financials", "name": "Tài chính", "change_percent": -1.24, "trading_value": 4971851154000},
+    {"slug": "real-estate", "name": "Bất động sản", "change_percent": -1.35, "trading_value": 2442466828000}
+  ],
+  "news": [
+    {"title": "Việt Nam lần đầu vào nhóm xếp hạng tín nhiệm đầu tư", "source": "VTV News", "published_at": "2026-10-08T21:24:00+07:00", "url": "https://vtv.vn/viet-nam-lan-dau-vao-nhom-xep-hang-tin-nhiem-dau-tu-100261008171136551.htm", "symbols": []},
+    {"title": "Khả năng FED tăng lãi suất trong tháng 10 giảm mạnh", "source": "VTV News", "published_at": "2026-10-08T21:22:00+07:00", "url": "https://vtv.vn/kha-nang-fed-tang-lai-suat-trong-thang-10-giam-manh-100261008161035761.htm", "symbols": []},
+    {"title": "Báo quốc tế: Vinhomes đưa hình ảnh Việt Nam mới ra thế giới qua mô hình đô thị tiên phong", "source": "Tạp chí Diễn đàn doanh nghiệp", "published_at": "2026-10-08T21:26:00+07:00", "url": "https://diendandoanhnghiep.vn/bao-quoc-te-vinhomes-dua-hinh-anh-viet-nam-moi-ra-the-gioi-qua-mo-hinh-do-thi-tien-phong-10185464.html", "symbols": ["VHM"]},
+    {"title": "Bài toán mới cho bất động sản công nghiệp", "source": "Tạp chí Diễn đàn doanh nghiệp", "published_at": "2026-10-08T21:37:00+07:00", "url": "https://diendandoanhnghiep.vn/bai-toan-moi-cho-bat-dong-san-cong-nghiep-10185469.html", "symbols": []},
+    {"title": "Không lùi tiến độ, không vì tiến độ mà bỏ qua chất lượng dự án sân bay Long Thành", "source": "Tạp chí tài chính", "published_at": "2026-10-08T21:35:00+07:00", "url": "https://tapchikinhtetaichinh.vn/khong-lui-tien-do-khong-vi-tien-do-ma-bo-qua-chat-luong-du-an-san-bay-long-thanh-169021.html", "symbols": []},
+    {"title": "Thu hút FDI không phải để thay thế nội lực mà để làm mạnh nội lực", "source": "VTV News", "published_at": "2026-10-08T21:11:00+07:00", "url": "https://vtv.vn/thu-hut-fdi-khong-phai-de-thay-the-noi-luc-ma-de-lam-manh-noi-luc-100261008150155169.htm", "symbols": []},
+    {"title": "Điểm tin kinh tế thế giới nổi bật ngày 8/10/2026", "source": "Vietnam+", "published_at": "2026-10-08T21:13:00+07:00", "url": "https://baotintuc.vn/diem-tin-kinh-te-the-gioi-noi-bat-ngay-8102026-post1392593.html", "symbols": []},
+    {"title": "Ngành Thuế và ngành Hải quan tích cực đối thoại, gỡ khó cho doanh nghiệp", "source": "Tạp chí tài chính", "published_at": "2026-10-08T21:34:00+07:00", "url": "https://tapchikinhtetaichinh.vn/nganh-thue-va-nganh-hai-quan-tich-cuc-doi-thoai-go-kho-cho-doanh-nghiep-168990.html", "symbols": []}
+  ]
+}
